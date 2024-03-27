@@ -19,7 +19,7 @@ python biased_cifar10.py
 python biased_mnist_v1.py
 ```
 ## Run
-We use the default hyperparameter settings of DC, DSA and DM to conduct experiments on CMNIST-DD and CCIFAR10-DD. Their official code link is [here](https://github.com/VICO-UoE/DatasetCondensation).
+We use the default hyperparameter settings of DC, DSA and DM to conduct experiments on CMNIST-DD and CCIFAR10-DD. Their official code is [here](https://github.com/VICO-UoE/DatasetCondensation).
 
 ## Acknowledgement
 Our implementation references the code below, thanks to them.

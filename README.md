@@ -11,12 +11,12 @@ We create two biased datasets for DD, named CMNIST-DD and CCFAR10-DD, following 
 For your ease of reproducibility, we provide our datasets in the [Baidu Skydisk](). Or you can create your biased dataset using the following codes:
 ### CMNIST-DD
 ```
-
+python biased_cifar10.py
 ```
 
 ### CCFAR10-DD
 ```
-
+python 
 ```
 
 ## Acknowledgement

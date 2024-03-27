@@ -18,6 +18,12 @@ python biased_cifar10.py
 ```
 python biased_mnist_v1.py
 ```
+### Usage
+```
+data = torch.load('datapath')
+dst_train_img, dst_train_lab, dst_train_attr = save_data["training_imgs"], save_data["training_labs"], save_data["training_attrs"]
+dst_test_img, dst_test_lab, dst_test_attr = save_data["testing_imgs"], save_data["testing_labs"], save_data["testing_attrs"]
+```
 ## Run
 We use the default hyperparameter settings of DC, DSA and DM to conduct experiments on CMNIST-DD and CCIFAR10-DD. Their official code is [here](https://github.com/VICO-UoE/DatasetCondensation).
 

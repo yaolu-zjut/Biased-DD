@@ -15,5 +15,5 @@ function test() {
 
 ## Acknowledgement
 Our implementation references the code below, thanks to them.
-* LfF:[LfF](https://github.com/alinlab/LfF)
-* DatasetCondensation:[DatasetCondensation](https://github.com/VICO-UoE/DatasetCondensation)
+* LfF: [LfF](https://github.com/alinlab/LfF)
+* DatasetCondensation: [DatasetCondensation](https://github.com/VICO-UoE/DatasetCondensation)

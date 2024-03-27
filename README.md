@@ -8,7 +8,7 @@ Dataset Distillation (DD) is a promising technique to synthesize a smaller datas
 We create two biased datasets for DD, named CMNIST-DD and CCFAR10-DD, following the instructions of [Nam et al.](https://proceedings.neurips.cc/paper/2020/hash/eddc3427c5d77843c2253f1e799fe933-Abstract.html). Each dataset consists of 6 training sets with varying biased ratios (0%, 10%, 50%, 80%, 95% and 100%) and 1 unbiased testing set. Finally, a parameter, severity, is introduced to regulate the intensity of disturbance on CMNIST-DD and CCFAR10-DD. 
 ![image](https://github.com/yaolu-zjut/Biased-DD/blob/main/biased%20dataset.JPG)
 
-For your ease of reproducibility, we provide our datasets in the [Baidu Skydisk](https://pan.baidu.com/s/1-VsVBUwjk1Q8CTZfhTmrRA). Or you can create your biased dataset using the following codes:
+For your ease of reproducibility, we provide our datasets in the [Baidu Skydisk](https://pan.baidu.com/s/1-6uCCTc1G5icxBpVOIKeUw?pwd=bzzt). Or you can create your biased dataset using the following codes:
 ### CMNIST-DD
 ```
 python biased_cifar10.py

@@ -7,5 +7,12 @@ Dataset Distillation (DD) is a promising technique to synthesize a smaller datas
 ## Datasets
 
 
+## 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 ## Acknowledgement
 Our implementation references the code below, thanks to them.

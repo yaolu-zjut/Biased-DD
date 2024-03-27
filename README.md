@@ -16,7 +16,7 @@ python biased_cifar10.py
 
 ### CCFAR10-DD
 ```
-python 
+python biased_mnist_v1.py
 ```
 
 ## Acknowledgement

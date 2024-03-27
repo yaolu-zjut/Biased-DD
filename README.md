@@ -9,11 +9,14 @@ We create two biased datasets for DD, named CMNIST-DD and CCFAR10-DD, following 
 ![image](https://github.com/yaolu-zjut/Biased-DD/blob/main/biased%20dataset.JPG)
 
 For your ease of reproducibility, we provide our datasets in the [Baidu Skydisk](). Or you can create your biased dataset using the following codes:
-## 
+### CMNIST-DD
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+
+```
+
+### CCFAR10-DD
+```
+
 ```
 
 ## Acknowledgement
